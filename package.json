@@ -29,7 +29,7 @@
     "bitcore-lib": "git://github.com/unifycoin/bitcore-lib.git",
     "bitcore-lib-cash": "^0.16.1",
     "bitcore-mnemonic": "git://github.com/unifycoin/bitcore-mnemonic.git",
-    "bitcore-payment-protocol": "git://github.com/unifycoin/bitcore-payment-protocal.git",
+    "bitcore-payment-protocol": "git://github.com/unifycoin/bitcore-payment-protocol.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.4",
     "preconditions": "^1.0.8",
